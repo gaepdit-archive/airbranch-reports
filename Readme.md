@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been archived. Report functionality has been incorporated into the [Air Web App](https://github.com/gaepdit/air-web).
+
 # Air Protection Branch Reports Printing Service
 
 This application creates various printable reports used or provided by the Georgia EPD Air Protection Branch.
